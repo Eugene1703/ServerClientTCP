@@ -1,0 +1,30 @@
+E:\SP\AZIR\ServerClientTCP\Client\Client\bin\Debug\Client.exe.config
+E:\SP\AZIR\ServerClientTCP\Client\Client\bin\Debug\Client.exe
+E:\SP\AZIR\ServerClientTCP\Client\Client\bin\Debug\Client.pdb
+E:\SP\AZIR\ServerClientTCP\Client\Client\bin\Debug\Newtonsoft.Json.dll
+E:\SP\AZIR\ServerClientTCP\Client\Client\bin\Debug\SuperSimpleTcp.dll
+E:\SP\AZIR\ServerClientTCP\Client\Client\bin\Debug\Newtonsoft.Json.xml
+E:\SP\AZIR\ServerClientTCP\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\SP\AZIR\ServerClientTCP\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+E:\SP\AZIR\ServerClientTCP\Client\Client\obj\Debug\Client.Form1.resources
+E:\SP\AZIR\ServerClientTCP\Client\Client\obj\Debug\Client.Properties.Resources.resources
+E:\SP\AZIR\ServerClientTCP\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\SP\AZIR\ServerClientTCP\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\SP\AZIR\ServerClientTCP\Client\Client\obj\Debug\Client.csproj.CopyComplete
+E:\SP\AZIR\ServerClientTCP\Client\Client\obj\Debug\Client.exe
+E:\SP\AZIR\ServerClientTCP\Client\Client\obj\Debug\Client.pdb
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Client\Client\bin\Debug\Client.exe.config
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Client\Client\bin\Debug\Client.exe
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Client\Client\bin\Debug\Client.pdb
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Client\Client\bin\Debug\Newtonsoft.Json.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Client\Client\bin\Debug\SuperSimpleTcp.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Client\Client\bin\Debug\Newtonsoft.Json.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Client\Client\obj\Debug\Client.Form1.resources
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Client\Client\obj\Debug\Client.Properties.Resources.resources
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Client\Client\obj\Debug\Client.csproj.CopyComplete
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Client\Client\obj\Debug\Client.exe
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Client\Client\obj\Debug\Client.pdb

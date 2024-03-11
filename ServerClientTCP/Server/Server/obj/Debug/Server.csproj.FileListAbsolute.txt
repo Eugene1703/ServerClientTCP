@@ -1,0 +1,124 @@
+E:\SP\AZIR\ServerClientTCP\Server\Server\bin\Debug\Server.exe.config
+E:\SP\AZIR\ServerClientTCP\Server\Server\bin\Debug\Server.exe
+E:\SP\AZIR\ServerClientTCP\Server\Server\bin\Debug\Server.pdb
+E:\SP\AZIR\ServerClientTCP\Server\Server\bin\Debug\Newtonsoft.Json.dll
+E:\SP\AZIR\ServerClientTCP\Server\Server\bin\Debug\SuperSimpleTcp.dll
+E:\SP\AZIR\ServerClientTCP\Server\Server\bin\Debug\Newtonsoft.Json.xml
+E:\SP\AZIR\ServerClientTCP\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\SP\AZIR\ServerClientTCP\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+E:\SP\AZIR\ServerClientTCP\Server\Server\obj\Debug\Server.Form1.resources
+E:\SP\AZIR\ServerClientTCP\Server\Server\obj\Debug\Server.Properties.Resources.resources
+E:\SP\AZIR\ServerClientTCP\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\SP\AZIR\ServerClientTCP\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\SP\AZIR\ServerClientTCP\Server\Server\obj\Debug\Server.csproj.CopyComplete
+E:\SP\AZIR\ServerClientTCP\Server\Server\obj\Debug\Server.exe
+E:\SP\AZIR\ServerClientTCP\Server\Server\obj\Debug\Server.pdb
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Server.exe.config
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Server.exe
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Server.pdb
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Newtonsoft.Json.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\SuperSimpleTcp.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Newtonsoft.Json.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\obj\Debug\Server.Form1.resources
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\obj\Debug\Server.Properties.Resources.resources
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\obj\Debug\Server.csproj.CopyComplete
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\obj\Debug\Server.exe
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\obj\Debug\Server.pdb
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\FireSharp.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Microsoft.Threading.Tasks.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Net.Http.Extensions.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Net.Http.Primitives.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Microsoft.Threading.Tasks.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Net.Http.Extensions.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Net.Http.Primitives.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\obj\Debug\Server.csproj.App.config
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\grpc_csharp_ext.x86.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\grpc_csharp_ext.x64.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\libgrpc_csharp_ext.x64.so
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\libgrpc_csharp_ext.x64.dylib
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Api.CommonProtos.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Api.Gax.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Api.Gax.Grpc.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Apis.Auth.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Apis.Core.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Apis.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Cloud.Firestore.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Cloud.Firestore.V1.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Cloud.Location.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.LongRunning.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Protobuf.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Grpc.Auth.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Grpc.Core.Api.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Grpc.Core.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Grpc.Net.Client.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Grpc.Net.Common.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Buffers.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.CodeDom.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Collections.Immutable.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Linq.Async.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Memory.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Net.Http.WinHttpHandler.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Numerics.Vectors.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.ValueTuple.dll
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Api.CommonProtos.pdb
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Api.CommonProtos.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Api.Gax.pdb
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Api.Gax.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Api.Gax.Grpc.pdb
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Api.Gax.Grpc.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Apis.pdb
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Apis.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Apis.Auth.pdb
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Apis.Auth.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Apis.Core.pdb
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Apis.Core.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Cloud.Firestore.pdb
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Cloud.Firestore.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Cloud.Firestore.V1.pdb
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Cloud.Firestore.V1.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Cloud.Location.pdb
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Cloud.Location.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.LongRunning.pdb
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.LongRunning.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Protobuf.pdb
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Google.Protobuf.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Grpc.Auth.pdb
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Grpc.Auth.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Grpc.Core.pdb
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Grpc.Core.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Grpc.Core.Api.pdb
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Grpc.Core.Api.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Grpc.Net.Client.pdb
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Grpc.Net.Client.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Grpc.Net.Common.pdb
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Grpc.Net.Common.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Buffers.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.CodeDom.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Collections.Immutable.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Linq.Async.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Memory.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Net.Http.WinHttpHandler.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Numerics.Vectors.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\bin\Debug\System.ValueTuple.xml
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\obj\Debug\Server.Login.resources
+X:\4 курс\АЗІР\ServerClientTCP\ServerClientTCP\Server\Server\obj\Debug\Server.RegAuth.resources
